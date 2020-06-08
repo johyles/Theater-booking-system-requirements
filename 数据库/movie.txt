@@ -1,0 +1,7 @@
+uid	uname	info	photo	time
+1	双子杀手	很好看	C:\\Users\\16090\\Desktop\\film\\双子杀手.jpg	2019/12/17
+2	的士速递	很好看	C:\\Users\\16090\\Desktop\\film\\的士速递.jpg	2019/12/7
+3	光影之战	喜欢	C:\\Users\\16090\\Desktop\\film\\光影之战.jpg	2020/1/16
+4	黄金兄弟	u错不错	C:\\Users\\16090\\Desktop\\film\\黄金兄弟.jpg	2019/12/20
+5	逆时营救	还行	C:\\Users\\16090\\Desktop\\film\\逆时营救.jpg	2019/12/22
+6	蚁人	喜欢	C:\\Users\\16090\\Desktop\\film\\蚁人.jpg	2019/11/26
